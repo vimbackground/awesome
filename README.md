@@ -1,5 +1,5 @@
-# vpage
+# awesome
 
-This vim's page at Github
+vim's awesome
 
-Just right
+awesome什么还没想好，先awesome着吧
